@@ -11,7 +11,7 @@ app = FastAPI()
 # You can use an actual weather API (like OpenWeatherMap) for real weather data.
 # For the purpose of this example, we'll simulate a weather response.
 
-CITY = 'Montreal'
+CITY = 'Dakar'
 API_KEY = '4a48e3ce448659890c354b5c8605231a'  # Replace with your real API key
 
 def get_weather():
